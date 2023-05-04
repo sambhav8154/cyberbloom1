@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="288.246" height="285.978" viewBox="0 0 288.246 285.978">
+  <defs>
+    <linearGradient id="linear-gradient" x1="0.5" x2="0.5" y2="1" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#3ebbc8"/>
+      <stop offset="1" stop-color="#007f8b"/>
+    </linearGradient>
+  </defs>
+  <g id="Group_80" data-name="Group 80" transform="translate(968.5 -4474.133)">
+    <rect id="Rectangle_599" data-name="Rectangle 599" width="287.345" height="284.931" transform="translate(-968.484 4475.18)" fill="url(#linear-gradient)"/>
+    <path id="Rectangle_600" data-name="Rectangle 600" d="M285.941,0h2.306a0,0,0,0,1,0,0V0A285.941,285.941,0,0,1,2.306,285.941H0a0,0,0,0,1,0,0v0A285.941,285.941,0,0,1,285.941,0Z" transform="translate(-968.5 4474.133)" fill="#01808c"/>
+  </g>
+</svg>
